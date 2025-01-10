@@ -43,7 +43,6 @@ export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
 export BOLD="\e[1m"
 export WARNING="${RED}\e[5m"
 export UNDERLINE="\e[4m"
-fi
 echo "Install Main..."
 echo "Progress..."
 sleep 2
